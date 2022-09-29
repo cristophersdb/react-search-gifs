@@ -23,7 +23,7 @@ export const GifExpertApp = () => {
     return (
         <>
 
-            <h1>GifExpertApp Cristopher Saldaña Y</h1>
+            <h1>Buscador de Gifs - Cristopher Saldaña</h1>
 
 
             <AddCategory onNewCategory={(value) => onAddCategory(value)} />
